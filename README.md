@@ -1,4 +1,5 @@
 # SpringCloud
+## blog地址：https://blog.csdn.net/weixin_44051217/article/details/106390179
 1、搭建一个空的spring cloud项目
 2、创建spring cloud netflix eureka (server/client)项目
 3、创建spring cloud netflix zuul项目
