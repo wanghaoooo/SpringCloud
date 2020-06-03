@@ -5,7 +5,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @FeignClient(value = "producer")
 public interface FeignClientService {
-
-    @RequestMapping("/producer/demo")
+    @RequestMapping("/producer/haha")
     public String consumer();
 }
